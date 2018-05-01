@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Init'){
       steps {
-        echo "Testing master - Test 2..."
+        echo "Testing feature/Y..."
       }
     }
   }
